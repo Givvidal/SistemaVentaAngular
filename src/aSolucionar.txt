@@ -1,0 +1,2 @@
+Venta: al realizar una venta, el detalle registra los precios con dos 0's demas (los decimales estan correctos)
+Dashboard: no muestra los graficos de CHART
